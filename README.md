@@ -1,4 +1,4 @@
-### Script to get your telegram Session in telethon and pyrogram.
+### Telegram String Alıcı.
 
 <a href="https://repl.it/@KeselekPermen/UserButt#main.py"><img src="https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
