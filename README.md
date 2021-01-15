@@ -2,6 +2,6 @@
 
 <a href="https://repl.it/@KeselekPermen/UserButt#main.py"><img src="https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
-This code is part of [UserButt](https://github.com/KeselekPermen69/UserButt) by [Mr.Miss](https://github.com/KeselekPermen69).
+[String](https://github.com/iibrahimwt13/String_Al-c-)
 
-Copyleft © [Mr.Miss](https://github.com/KeselekPermen69),  All wrongs reserved.
+Copyleft © [BAY](https://github.com/iibrahimwt13),  All wrongs reserved.
